@@ -1,4 +1,4 @@
-# MWJCoreDataMnager
+# WECoreDataMnager
 简单的CoreData封装
 在Xcode8.0中使用CoreData注意点：
 1.创建NSManagedObject Subclass对象，先选中后缀为.xcdatamodeld的模型文件，在Editor下拉栏中点击Create NSManagedObject Subclass，会生成四个文件
